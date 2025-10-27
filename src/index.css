@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom UCF theme helpers */
+:root{
+  --ucf-gold: #FDB913;
+  --ucf-black: #000000;
+  --muted: #6b7280;
+}
+body { @apply bg-gradient-to-b from-white to-yellow-50 text-gray-900; }
