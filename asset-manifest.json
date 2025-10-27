@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ucf-wait-app/static/css/main.8bdfd5d8.css",
+    "main.js": "/ucf-wait-app/static/js/main.279d4a2d.js",
+    "index.html": "/ucf-wait-app/index.html",
+    "main.8bdfd5d8.css.map": "/ucf-wait-app/static/css/main.8bdfd5d8.css.map",
+    "main.279d4a2d.js.map": "/ucf-wait-app/static/js/main.279d4a2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bdfd5d8.css",
+    "static/js/main.279d4a2d.js"
+  ]
+}
